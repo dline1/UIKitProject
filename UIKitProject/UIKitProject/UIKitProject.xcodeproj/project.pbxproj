@@ -13,6 +13,9 @@
 		4415B74B26D2B52F006823E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74926D2B52F006823E1 /* Main.storyboard */; };
 		4415B74D26D2B531006823E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74C26D2B531006823E1 /* Assets.xcassets */; };
 		4415B75026D2B531006823E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74E26D2B531006823E1 /* LaunchScreen.storyboard */; };
+		4415B75826D2B932006823E1 /* TwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4415B75726D2B932006823E1 /* TwoViewController.swift */; };
+		4415B75A26D2B93D006823E1 /* OneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4415B75926D2B93D006823E1 /* OneViewController.swift */; };
+		4415B75C26D2B94D006823E1 /* FreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4415B75B26D2B94D006823E1 /* FreeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		4415B74C26D2B531006823E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4415B74F26D2B531006823E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4415B75126D2B531006823E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4415B75726D2B932006823E1 /* TwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoViewController.swift; sourceTree = "<group>"; };
+		4415B75926D2B93D006823E1 /* OneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OneViewController.swift; sourceTree = "<group>"; };
+		4415B75B26D2B94D006823E1 /* FreeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FreeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +65,9 @@
 				4415B74326D2B52F006823E1 /* AppDelegate.swift */,
 				4415B74526D2B52F006823E1 /* SceneDelegate.swift */,
 				4415B74726D2B52F006823E1 /* ViewController.swift */,
+				4415B75726D2B932006823E1 /* TwoViewController.swift */,
+				4415B75926D2B93D006823E1 /* OneViewController.swift */,
+				4415B75B26D2B94D006823E1 /* FreeViewController.swift */,
 				4415B74926D2B52F006823E1 /* Main.storyboard */,
 				4415B74C26D2B531006823E1 /* Assets.xcassets */,
 				4415B74E26D2B531006823E1 /* LaunchScreen.storyboard */,
@@ -138,8 +147,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				4415B74826D2B52F006823E1 /* ViewController.swift in Sources */,
+				4415B75A26D2B93D006823E1 /* OneViewController.swift in Sources */,
+				4415B75C26D2B94D006823E1 /* FreeViewController.swift in Sources */,
 				4415B74426D2B52F006823E1 /* AppDelegate.swift in Sources */,
 				4415B74626D2B52F006823E1 /* SceneDelegate.swift in Sources */,
+				4415B75826D2B932006823E1 /* TwoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
