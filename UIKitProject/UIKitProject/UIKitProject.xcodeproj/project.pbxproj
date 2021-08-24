@@ -13,6 +13,25 @@
 		4415B74B26D2B52F006823E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74926D2B52F006823E1 /* Main.storyboard */; };
 		4415B74D26D2B531006823E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74C26D2B531006823E1 /* Assets.xcassets */; };
 		4415B75026D2B531006823E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74E26D2B531006823E1 /* LaunchScreen.storyboard */; };
+		4435947426D3AB8800019D8E /* TwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4435947326D3AB8800019D8E /* TwoViewController.swift */; };
+		4435947826D3B8C000019D8E /* ThreViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4435947726D3B8C000019D8E /* ThreViewController.swift */; };
+		4435948526D3EA8A00019D8E /* Lawyer-Selection.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4435948426D3EA8A00019D8E /* Lawyer-Selection.jpg */; };
+		4435948926D3EA9300019D8E /* bd49714ee11bb8ffac847f3d56ee196b.png in Resources */ = {isa = PBXBuildFile; fileRef = 4435948826D3EA9300019D8E /* bd49714ee11bb8ffac847f3d56ee196b.png */; };
+		4435948B26D3EB3900019D8E /* 07319ce4ff86c02a4c4ecd89db2eda5e.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4435948A26D3EB3900019D8E /* 07319ce4ff86c02a4c4ecd89db2eda5e.jpg */; };
+		4435948D26D3F7DF00019D8E /* 1*YEkLxs-yZKPYKyOlQfyHwQ.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 4435948C26D3F7DF00019D8E /* 1*YEkLxs-yZKPYKyOlQfyHwQ.jpeg */; };
+		4435949526D3FDBE00019D8E /* o_chem_govoryat_shkolniki_i_uchitelya_posle_opyita_distanczionki2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4435949226D3FDBE00019D8E /* o_chem_govoryat_shkolniki_i_uchitelya_posle_opyita_distanczionki2.jpg */; };
+		4435949626D3FDBE00019D8E /* girl-sitting-at-a-de.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4435949326D3FDBE00019D8E /* girl-sitting-at-a-de.jpg */; };
+		4435949726D3FDBE00019D8E /* i.webp in Resources */ = {isa = PBXBuildFile; fileRef = 4435949426D3FDBE00019D8E /* i.webp */; };
+		4435949C26D3FE9C00019D8E /* Saunin-Andrej.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4435949826D3FE9C00019D8E /* Saunin-Andrej.jpg */; };
+		4435949D26D3FE9C00019D8E /* 7599824414566489_c3c3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4435949926D3FE9C00019D8E /* 7599824414566489_c3c3.jpg */; };
+		4435949E26D3FE9C00019D8E /* advokak-bankrotstvu-rad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4435949A26D3FE9C00019D8E /* advokak-bankrotstvu-rad.jpg */; };
+		4435949F26D3FE9C00019D8E /* rostov-na-donu-opitniy-kreditniy-advokat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4435949B26D3FE9C00019D8E /* rostov-na-donu-opitniy-kreditniy-advokat.jpg */; };
+		443594A426D3FF1E00019D8E /* advokat-po-ugolovnym-i-grazhdanskim-delam-Fm5NA5xo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 443594A026D3FF1E00019D8E /* advokat-po-ugolovnym-i-grazhdanskim-delam-Fm5NA5xo.jpg */; };
+		443594A526D3FF1E00019D8E /* _-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 443594A126D3FF1E00019D8E /* _-2.jpg */; };
+		443594A626D3FF1E00019D8E /* 20151205-154026.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 443594A226D3FF1E00019D8E /* 20151205-154026.jpg */; };
+		443594A726D3FF1E00019D8E /* advokati-v-habarovske.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 443594A326D3FF1E00019D8E /* advokati-v-habarovske.jpg */; };
+		443594AB26D4011100019D8E /* DSC_0857.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 443594AA26D4011100019D8E /* DSC_0857.jpg */; };
+		443594AD26D4015100019D8E /* XXXL.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 443594AC26D4015100019D8E /* XXXL.jpeg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +43,25 @@
 		4415B74C26D2B531006823E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4415B74F26D2B531006823E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4415B75126D2B531006823E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4435947326D3AB8800019D8E /* TwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoViewController.swift; sourceTree = "<group>"; };
+		4435947726D3B8C000019D8E /* ThreViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreViewController.swift; sourceTree = "<group>"; };
+		4435948426D3EA8A00019D8E /* Lawyer-Selection.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Lawyer-Selection.jpg"; sourceTree = "<group>"; };
+		4435948826D3EA9300019D8E /* bd49714ee11bb8ffac847f3d56ee196b.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bd49714ee11bb8ffac847f3d56ee196b.png; sourceTree = "<group>"; };
+		4435948A26D3EB3900019D8E /* 07319ce4ff86c02a4c4ecd89db2eda5e.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 07319ce4ff86c02a4c4ecd89db2eda5e.jpg; sourceTree = "<group>"; };
+		4435948C26D3F7DF00019D8E /* 1*YEkLxs-yZKPYKyOlQfyHwQ.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "1*YEkLxs-yZKPYKyOlQfyHwQ.jpeg"; sourceTree = "<group>"; };
+		4435949226D3FDBE00019D8E /* o_chem_govoryat_shkolniki_i_uchitelya_posle_opyita_distanczionki2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = o_chem_govoryat_shkolniki_i_uchitelya_posle_opyita_distanczionki2.jpg; sourceTree = "<group>"; };
+		4435949326D3FDBE00019D8E /* girl-sitting-at-a-de.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "girl-sitting-at-a-de.jpg"; sourceTree = "<group>"; };
+		4435949426D3FDBE00019D8E /* i.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = i.webp; sourceTree = "<group>"; };
+		4435949826D3FE9C00019D8E /* Saunin-Andrej.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Saunin-Andrej.jpg"; sourceTree = "<group>"; };
+		4435949926D3FE9C00019D8E /* 7599824414566489_c3c3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 7599824414566489_c3c3.jpg; sourceTree = "<group>"; };
+		4435949A26D3FE9C00019D8E /* advokak-bankrotstvu-rad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "advokak-bankrotstvu-rad.jpg"; sourceTree = "<group>"; };
+		4435949B26D3FE9C00019D8E /* rostov-na-donu-opitniy-kreditniy-advokat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "rostov-na-donu-opitniy-kreditniy-advokat.jpg"; sourceTree = "<group>"; };
+		443594A026D3FF1E00019D8E /* advokat-po-ugolovnym-i-grazhdanskim-delam-Fm5NA5xo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "advokat-po-ugolovnym-i-grazhdanskim-delam-Fm5NA5xo.jpg"; sourceTree = "<group>"; };
+		443594A126D3FF1E00019D8E /* _-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "_-2.jpg"; sourceTree = "<group>"; };
+		443594A226D3FF1E00019D8E /* 20151205-154026.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "20151205-154026.jpg"; sourceTree = "<group>"; };
+		443594A326D3FF1E00019D8E /* advokati-v-habarovske.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "advokati-v-habarovske.jpg"; sourceTree = "<group>"; };
+		443594AA26D4011100019D8E /* DSC_0857.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = DSC_0857.jpg; sourceTree = "<group>"; };
+		443594AC26D4015100019D8E /* XXXL.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = XXXL.jpeg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +97,63 @@
 				4415B74326D2B52F006823E1 /* AppDelegate.swift */,
 				4415B74526D2B52F006823E1 /* SceneDelegate.swift */,
 				4415B74726D2B52F006823E1 /* ViewController.swift */,
-				4415B74926D2B52F006823E1 /* Main.storyboard */,
+				4435947326D3AB8800019D8E /* TwoViewController.swift */,
+				4435947726D3B8C000019D8E /* ThreViewController.swift */,
+				4435948326D3EA7D00019D8E /* ImagesOne */,
+				4435948E26D3FA1900019D8E /* imageTwo */,
+				4435948F26D3FA3100019D8E /* imageThre */,
+				4435949026D3FA4800019D8E /* imageFour */,
 				4415B74C26D2B531006823E1 /* Assets.xcassets */,
+				4415B74926D2B52F006823E1 /* Main.storyboard */,
 				4415B74E26D2B531006823E1 /* LaunchScreen.storyboard */,
 				4415B75126D2B531006823E1 /* Info.plist */,
 			);
 			path = UIKitProject;
+			sourceTree = "<group>";
+		};
+		4435948326D3EA7D00019D8E /* ImagesOne */ = {
+			isa = PBXGroup;
+			children = (
+				4435948C26D3F7DF00019D8E /* 1*YEkLxs-yZKPYKyOlQfyHwQ.jpeg */,
+				4435948A26D3EB3900019D8E /* 07319ce4ff86c02a4c4ecd89db2eda5e.jpg */,
+				4435948826D3EA9300019D8E /* bd49714ee11bb8ffac847f3d56ee196b.png */,
+				4435948426D3EA8A00019D8E /* Lawyer-Selection.jpg */,
+			);
+			path = ImagesOne;
+			sourceTree = "<group>";
+		};
+		4435948E26D3FA1900019D8E /* imageTwo */ = {
+			isa = PBXGroup;
+			children = (
+				4435949326D3FDBE00019D8E /* girl-sitting-at-a-de.jpg */,
+				4435949426D3FDBE00019D8E /* i.webp */,
+				4435949226D3FDBE00019D8E /* o_chem_govoryat_shkolniki_i_uchitelya_posle_opyita_distanczionki2.jpg */,
+				443594AA26D4011100019D8E /* DSC_0857.jpg */,
+				443594AC26D4015100019D8E /* XXXL.jpeg */,
+			);
+			path = imageTwo;
+			sourceTree = "<group>";
+		};
+		4435948F26D3FA3100019D8E /* imageThre */ = {
+			isa = PBXGroup;
+			children = (
+				4435949926D3FE9C00019D8E /* 7599824414566489_c3c3.jpg */,
+				4435949A26D3FE9C00019D8E /* advokak-bankrotstvu-rad.jpg */,
+				4435949B26D3FE9C00019D8E /* rostov-na-donu-opitniy-kreditniy-advokat.jpg */,
+				4435949826D3FE9C00019D8E /* Saunin-Andrej.jpg */,
+			);
+			path = imageThre;
+			sourceTree = "<group>";
+		};
+		4435949026D3FA4800019D8E /* imageFour */ = {
+			isa = PBXGroup;
+			children = (
+				443594A126D3FF1E00019D8E /* _-2.jpg */,
+				443594A226D3FF1E00019D8E /* 20151205-154026.jpg */,
+				443594A026D3FF1E00019D8E /* advokat-po-ugolovnym-i-grazhdanskim-delam-Fm5NA5xo.jpg */,
+				443594A326D3FF1E00019D8E /* advokati-v-habarovske.jpg */,
+			);
+			path = imageFour;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +213,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4435949626D3FDBE00019D8E /* girl-sitting-at-a-de.jpg in Resources */,
+				443594A726D3FF1E00019D8E /* advokati-v-habarovske.jpg in Resources */,
+				4435948B26D3EB3900019D8E /* 07319ce4ff86c02a4c4ecd89db2eda5e.jpg in Resources */,
+				4435949E26D3FE9C00019D8E /* advokak-bankrotstvu-rad.jpg in Resources */,
+				4435949C26D3FE9C00019D8E /* Saunin-Andrej.jpg in Resources */,
+				443594AD26D4015100019D8E /* XXXL.jpeg in Resources */,
+				443594A526D3FF1E00019D8E /* _-2.jpg in Resources */,
+				443594A626D3FF1E00019D8E /* 20151205-154026.jpg in Resources */,
+				443594A426D3FF1E00019D8E /* advokat-po-ugolovnym-i-grazhdanskim-delam-Fm5NA5xo.jpg in Resources */,
 				4415B75026D2B531006823E1 /* LaunchScreen.storyboard in Resources */,
+				4435949F26D3FE9C00019D8E /* rostov-na-donu-opitniy-kreditniy-advokat.jpg in Resources */,
 				4415B74D26D2B531006823E1 /* Assets.xcassets in Resources */,
+				443594AB26D4011100019D8E /* DSC_0857.jpg in Resources */,
+				4435948526D3EA8A00019D8E /* Lawyer-Selection.jpg in Resources */,
+				4435949D26D3FE9C00019D8E /* 7599824414566489_c3c3.jpg in Resources */,
+				4435949726D3FDBE00019D8E /* i.webp in Resources */,
+				4435948D26D3F7DF00019D8E /* 1*YEkLxs-yZKPYKyOlQfyHwQ.jpeg in Resources */,
+				4435949526D3FDBE00019D8E /* o_chem_govoryat_shkolniki_i_uchitelya_posle_opyita_distanczionki2.jpg in Resources */,
 				4415B74B26D2B52F006823E1 /* Main.storyboard in Resources */,
+				4435948926D3EA9300019D8E /* bd49714ee11bb8ffac847f3d56ee196b.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,8 +244,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				4415B74826D2B52F006823E1 /* ViewController.swift in Sources */,
+				4435947826D3B8C000019D8E /* ThreViewController.swift in Sources */,
 				4415B74426D2B52F006823E1 /* AppDelegate.swift in Sources */,
 				4415B74626D2B52F006823E1 /* SceneDelegate.swift in Sources */,
+				4435947426D3AB8800019D8E /* TwoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
