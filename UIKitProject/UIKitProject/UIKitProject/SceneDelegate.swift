@@ -10,13 +10,50 @@ import UIKit
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
-
-
+    
+    
     func scene(_ scene: UIScene, willConnectTo session: UISceneSession, options connectionOptions: UIScene.ConnectionOptions) {
-        // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
-        // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
-        // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
+
         guard let _ = (scene as? UIWindowScene) else { return }
+        
+        let viewOne = ViewController()
+        viewOne.tabBarItem.image = UIImage(systemName: "network")
+        let twoView = TwoViewController()
+        twoView.tabBarItem.image = UIImage(systemName: "alarm")
+        let freView = FreeViewController()
+        freView.tabBarItem.image = UIImage(systemName: "stopwatch")
+        let fourView = FourViewController()
+        fourView.tabBarItem.image = UIImage(systemName: "timer")
+        
+        //navigation
+//        let navViewOneController = UINavigationController(rootViewController: viewOne)
+//        navViewOneController.tabBarItem.image = UIImage(systemName: "network")
+//        navViewOneController.tabBarItem.title = "Мировые часы"
+//
+//
+//
+//        let navTwoViewController = UINavigationController(rootViewController: twoView)
+//        navTwoViewController.tabBarItem.image = UIImage(systemName: "alarm")
+//        navTwoViewController.tabBarItem.title = "Будильник"
+//
+//
+//        let navFreeController = UINavigationController(rootViewController: freView)
+//        navFreeController.tabBarItem.image = UIImage(systemName: "stopwatch")
+//        navFreeController.tabBarItem.title = "Секундомер"
+//
+//        let navFourViewController = UINavigationController(rootViewController: fourView)
+//        navFourViewController.tabBarItem.image = UIImage(systemName: "timer")
+       // navFourViewController.tabBarItem.title = "Таймер"
+        
+        let tabBar = UITabBarController()
+        
+        
+        tabBar.setViewControllers([viewOne, twoView, freView, fourView], animated: true)
+        self.window?.rootViewController = tabBar
+        tabBar.tabBar.barTintColor = UIColor.black
+        tabBar.tabBar.tintColor = .orange
+        self.window?.makeKeyAndVisible()
+    
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {
