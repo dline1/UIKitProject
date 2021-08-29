@@ -2,18 +2,28 @@
 //  ViewController.swift
 //  UIKitProject
 //
-//  Created by Arthur111 Magomedov on 22.08.2021.
+//  Created by Arthur111  on 22.08.2021.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
-
-    override func viewDidLoad() {
+      
+    let label: UILabel = {
+        let labelT = UILabel()
+        labelT.text = "Мировое время ⏰"
+        labelT.textColor = UIColor.black
+        labelT.frame = CGRect(x: 10, y: 20, width: 10, height: 10)
+        return labelT
+    }()
+    
+    override func viewDidLoad() { 
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        view.backgroundColor = .black
+        navigationItem.titleView = label
     }
 
+    
 
 }
 
