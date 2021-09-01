@@ -13,6 +13,21 @@
 		4415B74B26D2B52F006823E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74926D2B52F006823E1 /* Main.storyboard */; };
 		4415B74D26D2B531006823E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74C26D2B531006823E1 /* Assets.xcassets */; };
 		4415B75026D2B531006823E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4415B74E26D2B531006823E1 /* LaunchScreen.storyboard */; };
+		44632F7B26DF9FC100547AD4 /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44632F7A26DF9FC100547AD4 /* NextViewController.swift */; };
+		44CD44A826DA55630066BD7B /* TwoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44CD44A726DA55630066BD7B /* TwoViewController.swift */; };
+		44DF53F526DCE48A00B92CBA /* burger.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF53F426DCE48A00B92CBA /* burger.png */; };
+		44DF53F726DCE52900B92CBA /* byg.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF53F626DCE52900B92CBA /* byg.png */; };
+		44DF53FB26DCE6A700B92CBA /* pizza.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF53F926DCE6A700B92CBA /* pizza.png */; };
+		44DF53FC26DCE6A700B92CBA /* pizzaas.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF53FA26DCE6A700B92CBA /* pizzaas.png */; };
+		44DF53FE26DCEB1900B92CBA /* softdrinkds.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF53FD26DCEB1800B92CBA /* softdrinkds.png */; };
+		44DF540026DCEB1E00B92CBA /* softdrinks.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF53FF26DCEB1E00B92CBA /* softdrinks.png */; };
+		44DF540226DCEEBD00B92CBA /* BurgerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DF540126DCEEBD00B92CBA /* BurgerViewController.swift */; };
+		44DF540B26DCF2CD00B92CBA /* hamburgezr.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF540826DCF2CD00B92CBA /* hamburgezr.png */; };
+		44DF540C26DCF2CD00B92CBA /* burgeer.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF540926DCF2CD00B92CBA /* burgeer.png */; };
+		44DF540D26DCF2CD00B92CBA /* burgerrr.png in Resources */ = {isa = PBXBuildFile; fileRef = 44DF540A26DCF2CD00B92CBA /* burgerrr.png */; };
+		44DF541226DD09D800B92CBA /* TwoBurgerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DF541126DD09D800B92CBA /* TwoBurgerViewController.swift */; };
+		44DF541C26DD2DBA00B92CBA /* OplataBurgerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44DF541B26DD2DBA00B92CBA /* OplataBurgerViewController.swift */; };
+		44F31FB226DC4F6C008487B5 /* 95.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 44F31FB126DC4F6C008487B5 /* 95.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +39,21 @@
 		4415B74C26D2B531006823E1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4415B74F26D2B531006823E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4415B75126D2B531006823E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44632F7A26DF9FC100547AD4 /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
+		44CD44A726DA55630066BD7B /* TwoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoViewController.swift; sourceTree = "<group>"; };
+		44DF53F426DCE48A00B92CBA /* burger.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burger.png; sourceTree = "<group>"; };
+		44DF53F626DCE52900B92CBA /* byg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = byg.png; sourceTree = "<group>"; };
+		44DF53F926DCE6A700B92CBA /* pizza.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pizza.png; sourceTree = "<group>"; };
+		44DF53FA26DCE6A700B92CBA /* pizzaas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pizzaas.png; sourceTree = "<group>"; };
+		44DF53FD26DCEB1800B92CBA /* softdrinkds.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = softdrinkds.png; sourceTree = "<group>"; };
+		44DF53FF26DCEB1E00B92CBA /* softdrinks.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = softdrinks.png; sourceTree = "<group>"; };
+		44DF540126DCEEBD00B92CBA /* BurgerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BurgerViewController.swift; sourceTree = "<group>"; };
+		44DF540826DCF2CD00B92CBA /* hamburgezr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hamburgezr.png; sourceTree = "<group>"; };
+		44DF540926DCF2CD00B92CBA /* burgeer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burgeer.png; sourceTree = "<group>"; };
+		44DF540A26DCF2CD00B92CBA /* burgerrr.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = burgerrr.png; sourceTree = "<group>"; };
+		44DF541126DD09D800B92CBA /* TwoBurgerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwoBurgerViewController.swift; sourceTree = "<group>"; };
+		44DF541B26DD2DBA00B92CBA /* OplataBurgerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OplataBurgerViewController.swift; sourceTree = "<group>"; };
+		44F31FB126DC4F6C008487B5 /* 95.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 95.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,12 +89,51 @@
 				4415B74326D2B52F006823E1 /* AppDelegate.swift */,
 				4415B74526D2B52F006823E1 /* SceneDelegate.swift */,
 				4415B74726D2B52F006823E1 /* ViewController.swift */,
-				4415B74926D2B52F006823E1 /* Main.storyboard */,
+				44CD44A726DA55630066BD7B /* TwoViewController.swift */,
+				44DF540E26DD098900B92CBA /* BurgerVC */,
 				4415B74C26D2B531006823E1 /* Assets.xcassets */,
+				44DF540726DCF2BE00B92CBA /* Burger Img */,
+				44DF53F826DCE69100B92CBA /* Image */,
+				4415B74926D2B52F006823E1 /* Main.storyboard */,
 				4415B74E26D2B531006823E1 /* LaunchScreen.storyboard */,
 				4415B75126D2B531006823E1 /* Info.plist */,
 			);
 			path = UIKitProject;
+			sourceTree = "<group>";
+		};
+		44DF53F826DCE69100B92CBA /* Image */ = {
+			isa = PBXGroup;
+			children = (
+				44DF53FF26DCEB1E00B92CBA /* softdrinks.png */,
+				44DF53FD26DCEB1800B92CBA /* softdrinkds.png */,
+				44DF53F926DCE6A700B92CBA /* pizza.png */,
+				44DF53FA26DCE6A700B92CBA /* pizzaas.png */,
+				44DF53F626DCE52900B92CBA /* byg.png */,
+				44F31FB126DC4F6C008487B5 /* 95.jpg */,
+				44DF53F426DCE48A00B92CBA /* burger.png */,
+			);
+			path = Image;
+			sourceTree = "<group>";
+		};
+		44DF540726DCF2BE00B92CBA /* Burger Img */ = {
+			isa = PBXGroup;
+			children = (
+				44DF540926DCF2CD00B92CBA /* burgeer.png */,
+				44DF540A26DCF2CD00B92CBA /* burgerrr.png */,
+				44DF540826DCF2CD00B92CBA /* hamburgezr.png */,
+			);
+			path = "Burger Img";
+			sourceTree = "<group>";
+		};
+		44DF540E26DD098900B92CBA /* BurgerVC */ = {
+			isa = PBXGroup;
+			children = (
+				44DF540126DCEEBD00B92CBA /* BurgerViewController.swift */,
+				44DF541126DD09D800B92CBA /* TwoBurgerViewController.swift */,
+				44DF541B26DD2DBA00B92CBA /* OplataBurgerViewController.swift */,
+				44632F7A26DF9FC100547AD4 /* NextViewController.swift */,
+			);
+			path = BurgerVC;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -124,9 +193,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44DF540D26DCF2CD00B92CBA /* burgerrr.png in Resources */,
+				44DF540026DCEB1E00B92CBA /* softdrinks.png in Resources */,
+				44DF53FC26DCE6A700B92CBA /* pizzaas.png in Resources */,
+				44DF53F726DCE52900B92CBA /* byg.png in Resources */,
 				4415B75026D2B531006823E1 /* LaunchScreen.storyboard in Resources */,
+				44DF53FE26DCEB1900B92CBA /* softdrinkds.png in Resources */,
+				44DF53FB26DCE6A700B92CBA /* pizza.png in Resources */,
+				44DF540C26DCF2CD00B92CBA /* burgeer.png in Resources */,
+				44DF53F526DCE48A00B92CBA /* burger.png in Resources */,
 				4415B74D26D2B531006823E1 /* Assets.xcassets in Resources */,
 				4415B74B26D2B52F006823E1 /* Main.storyboard in Resources */,
+				44DF540B26DCF2CD00B92CBA /* hamburgezr.png in Resources */,
+				44F31FB226DC4F6C008487B5 /* 95.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,9 +216,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				44DF541C26DD2DBA00B92CBA /* OplataBurgerViewController.swift in Sources */,
+				44632F7B26DF9FC100547AD4 /* NextViewController.swift in Sources */,
+				44DF541226DD09D800B92CBA /* TwoBurgerViewController.swift in Sources */,
 				4415B74826D2B52F006823E1 /* ViewController.swift in Sources */,
 				4415B74426D2B52F006823E1 /* AppDelegate.swift in Sources */,
 				4415B74626D2B52F006823E1 /* SceneDelegate.swift in Sources */,
+				44CD44A826DA55630066BD7B /* TwoViewController.swift in Sources */,
+				44DF540226DCEEBD00B92CBA /* BurgerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
